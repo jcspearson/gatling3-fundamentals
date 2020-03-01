@@ -112,7 +112,7 @@ class VideoGameFullTest extends Simulation {
 
   /*** After ***/
   after {
-    println("Loadgit / test completed")
+    println("Load test completed")
   }
 
 }
